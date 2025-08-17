@@ -2,9 +2,9 @@
 
 ## Air masses
 
-An **air mass** is a large body of air with generally uniform temperature and humidity.
+**Air Mass** - a large body of air with generally uniform temperature and humidity
 
-A **source origin** is an area from which an air mass originates.
+**Source Origin** - an area from which an air mass originates
 
 The longer an air mass stagnates over its source region, the more likely it is to aquire the properties of the surface below.
 
