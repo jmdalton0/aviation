@@ -1,6 +1,6 @@
 # Special Use Airspace
 
-[3-4]() | [73.1]()
+[AIM 3-4]() | [73.1]()
 
 MCPRAWN
 

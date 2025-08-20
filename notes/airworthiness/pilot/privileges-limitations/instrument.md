@@ -4,7 +4,7 @@
 
 [61.3]()
 
-Act as PIC under IFR or IMC conditions
+Act as PIC under IFR or in conditions less than VFR
 
 [91.135]()
 

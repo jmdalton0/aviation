@@ -14,8 +14,8 @@ IMSAFE checklist
 
 ## Hazardous Attitudes
 
-Antiauthority
-Impulsivity
-Invulnerability
-Macho
-Resignation
+- antiauthority
+- impulsivity
+- invulnerability
+- macho
+- resignation

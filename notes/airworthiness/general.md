@@ -1,4 +1,4 @@
-# General Airworthiness Considerations
+# General Airworthiness
 
 ## Preflight Risk Assessment
 
