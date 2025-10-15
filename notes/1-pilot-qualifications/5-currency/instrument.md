@@ -1,26 +1,10 @@
-# Pilot Qualifications - Instrument
-
-## Instrument Rating Requirements
-
-[61.65]() | [141 App C]() | [Syllabus]()
-
-- PPL
-- English
-- 30 hrs ground 
-- 35 hrs flight
-    + up to 40% can be in an AATD
-- 1 cross country
-    + 250 nm total
-    + 100 nm straight line distance between at least 2 airports
-    + 3 approaches, at least 1 at each airport
-
-## Instrument Currency
+# Instrument Currency
 
 [61.57]()
 
-### To act as PIC under IFR or in IMC
+## To act as PIC under IFR or in IMC
 
-Within the last 6 months, perform **6HITS**
+Within the last 6 months, perform **6 HITS**
 
 - 6 approaches
 - holds
@@ -37,7 +21,7 @@ If not completed within the total 12 months, an **Instrument Proficiency Check**
 
 - performed by DPE, CFII, etc.
 
-### Simulated IFR
+## Simulated IFR
 
 [61.57]()
 
@@ -50,6 +34,6 @@ For the purposes of training and currency, IFR can be simulated using
 
 A safety pilot must have
 
-- PPL with appropriate category and class ratings
+- PPC with appropriate category and class ratings
 - vision forward and to each side of the aircraft
 - dual controls

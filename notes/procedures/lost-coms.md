@@ -2,9 +2,9 @@
 
 ## Possible Causes
 
-**Incorrect Usage** - volume turned down, wrong frequency tuned or selected
+**Incorrect Usage** - low volume, wrong frequency
 
-**Equipment Malfunction** - circuit breaker popped, electrical failure
+**Equipment Malfunction** - circuit breaker popped, electrical failure, dead headset
 
 **Environment** - poor or no reception
 
@@ -39,3 +39,15 @@
 - assigned
 
 **Leaving the Clearance Limit**
+
+- If clearance limit is an IAF
+
+    + have EFC - descend on approach at EFC
+    + no EFC - descend on approach at ETA 
+
+- If clearance limit is NOT an IAF
+
+    + have EFC - leave clearance limit at EFC
+    + no EFC - leave clearance limit upon arrival
+
+    then fly to IAF and begin approach at ETA

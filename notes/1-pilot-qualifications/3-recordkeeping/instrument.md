@@ -1,24 +1,6 @@
-# Logging Flight Time
+# Logging Instrument Time
 
 [61.51]()
-
-## Logging All Flight Time
-
-All logbook entries must include
-
-- date
-- total time
-- location of departure and arrival (or location of sim)
-- type and ID of aircraft
-- type of experience (PIC, SIC, solo, dual, or sim)
-- day or night
-
-All training logbook entries must include
-
-- instructor endorsement
-- description of the training
-
-## Logging Instrument Time
 
 Instrument time can be logged if
 
@@ -39,4 +21,3 @@ In order to log an approach
 
 - the FIF must be crossed
 - if in VMC, the approach must be flown to minimums
-

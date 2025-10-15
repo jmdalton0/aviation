@@ -1,8 +1,6 @@
-# Illusions
+# Spatial Disorientation Illusions
 
 [8-1-5]()
-
-## Spatial Disorientation Illusions
 
 ICEFLAGGS
 
@@ -16,7 +14,7 @@ ICEFLAGGS
 - graveyard spiral
 - somatogravic
 
-### Inversion
+## Inversion
 
 **Cause** - an abrupt change from climb to straight and level
 
@@ -24,7 +22,7 @@ ICEFLAGGS
 
 **Result** - pitch down
 
-### Coriolis
+## Coriolis
 
 **Cause** - abrupt head movements in a prolonged constant-rate turn
 
@@ -32,7 +30,7 @@ ICEFLAGGS
 
 **Result** - dangerous attitude
 
-### Elevator
+## Elevator
 
 **Cause** - abrupt upward vertical acceleration
 
@@ -40,7 +38,7 @@ ICEFLAGGS
 
 **Result** - pitch down
 
-### False Horizon
+## False Horizon
 
 **Cause** - poor visibility, clouds, ground lights, stars, etc.
 
@@ -48,7 +46,7 @@ ICEFLAGGS
 
 **Result** - dangerous attitude
 
-### Leans
+## Leans
 
 **Cause** - enter bank slowly, abrupt correction
 
@@ -56,7 +54,7 @@ ICEFLAGGS
 
 **Result** - return to original dangerous bank, or pilot will lean
 
-### Autokinesis
+## Autokinesis
 
 **Cause** - staring at a light in the dark
 
@@ -64,7 +62,7 @@ ICEFLAGGS
 
 **Result** - attempt to align aircraft with the light
 
-### Graveyard Spin
+## Graveyard Spin
 
 **Cause** - proper recovery from a spin
 
@@ -72,7 +70,7 @@ ICEFLAGGS
 
 **Result** - return to original spin
 
-### Graveyard Spiral
+## Graveyard Spiral
 
 **Cause** - loss of altitude during a prolonged turn
 
@@ -80,37 +78,10 @@ ICEFLAGGS
 
 **Result** - pitch up, tightening the turn, increasing the loss of altitude
 
-### Somatogravic
+## Somatogravic
 
 **Cause** - rapid acceleration or deceleration
 
 **Illusion** - nose up or nose down attitude, respectively
 
 **Result** - pitch down or pitch up, respectively
-
-## Landing Error Illusions
-
-### Runway Width Illusions
-
-- **Narrower** - looks higher, pilot might fly lower
-- **Wider** - looks lower, pilot might fly higher 
-
-### Sloping Runway or Terrain Illusions
-
-- **Upsloping** - looks higher, pilot might fly lower
-- **Downsloping** - looks lower, pilot might fly higher 
-
-### Featureless Terrain Illusion
-
-looks higher, pilot might fly lower
-
-### Atmospheric Illusions
-
-- **Rain** - looks higher, pilot might fly lower
-- **Haze** - looks farther, pilot might fly lower
-- **Penetrating Fog** - looks like a pitch up, pilot might steepen the approach
-
-### Ground Lighting Illusions
-
-- **Aligned Ground Lights** - such as a street or train, might be mistaken for approach lighting systems
-- **Bright Approach Lighting Systems** - especially with few surrounding lights, look closer, pilot might fly higher
