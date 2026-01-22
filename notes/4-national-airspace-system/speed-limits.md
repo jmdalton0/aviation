@@ -1,6 +1,6 @@
 # Speed Limits
 
-## Above 10,000 MSL
+## Anywhere
 
 [91.817]()
 
@@ -12,16 +12,12 @@ Mach 1
 
 250 KIAS
 
-### Class B Airspace
+## Specific Airspaces
 
+[91.117]()
+
+- within 4 nm of a class C or D airport and below 2,500 AGL
 - beneath class B shelves
-- in class B corridors
-
-200 KIAS
-
-### Class C and D Airspace
-
-- below 2,500 AGL
-- within 4 nm of the primary airport
+- within class B VFR corridors
 
 200 KIAS
