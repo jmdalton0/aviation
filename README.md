@@ -1,3 +1,3 @@
 # Aviation Notes
 
-## Jesse McKay Dalton
+## Jesse Dalton
