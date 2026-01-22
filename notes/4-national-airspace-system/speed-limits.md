@@ -21,3 +21,9 @@ Mach 1
 - within class B VFR corridors
 
 200 KIAS
+
+## Exceptions
+
+[91.117]()
+
+Airspeed limits may be broken if an operation has a minimum safe airspeed that is higher.
