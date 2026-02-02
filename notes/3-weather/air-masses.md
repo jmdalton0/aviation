@@ -1,6 +1,4 @@
-# Air Masses, Fronts, and the Wave Cyclone Model
-
-## Air masses
+# Air Masses
 
 **Air Mass** - a large body of air with generally uniform temperature and humidity
 
@@ -27,9 +25,3 @@ Air masses are classified by **temperature properties** and **moisture propertie
 5. Maritime Tropical (mT) warm, moist
 
 Maritime Arctic is considered NA because it rarely forms.
-
-## Fronts
-
-A **front** is a boundary between air masses.
-
-Fronts are classified by which type of air mass (cold or warm) is replacing the other.

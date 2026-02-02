@@ -7,7 +7,7 @@ All logbook entries must include
 - date
 - total time
 - location of departure and arrival (or location of sim)
-- type and ID of aircraft
+- type and tailnumber of aircraft
 - type of experience (PIC, SIC, solo, dual, or sim)
 - day or night
 

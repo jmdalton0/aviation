@@ -17,13 +17,16 @@
 - transmit 'in the blind'
 - squawk 7600
 
-[91.185]()
 
 ### VFR Conditions
+
+[91.185]()
 
 - fly VFR and land as soon as practicable
 
 ### IFR Conditions
+
+[91.185]()
 
 **Route** - AVEF
 

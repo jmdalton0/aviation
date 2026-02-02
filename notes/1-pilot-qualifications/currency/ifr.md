@@ -1,10 +1,8 @@
-# Instrument Currency
+# IFR Currency
 
 [61.57]()
 
-## To act as PIC under IFR or in IMC
-
-Within the last 6 months, perform **6 HITS**
+To act as PIC under IFR or in IMC, a pilot must perform, within the last 6 months, **6 HITS**
 
 - 6 approaches
 - holds
@@ -36,4 +34,4 @@ A safety pilot must have
 
 - PPC with appropriate category and class ratings
 - vision forward and to each side of the aircraft
-- dual controls
+- access to dual controls

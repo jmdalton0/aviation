@@ -1,11 +1,12 @@
 # Holding Procedures
 
-## Standard Speeds
+[AIM 5-3-8]()
+
+## Airspeed Limits
 
 - below 6,000 MSL - 200 KIAS
 - 6,001 - 14,000 MSL - 230 KIAS
 - 14,001 and above - 265 KIAS
-
 
 ## Procedures
 
